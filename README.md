@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anton</h1>
 
 # 💫 About Me:
-🌱 I’m currently learning Qt, C++
+🌱 I’m currently learning Qt, C++, Java
 
 <!--
 **mozartelio/mozartelio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
